@@ -32,4 +32,4 @@ python music_bot.py
 Join a Discord voice channel within the server you have set up permissions for the Discord bot and run
 `$connect` or `$c` in any text chat. The bot will connect to your voice channel, automatically start recording audio from your computer and output that audio to the voice channel. At any point you can disconnect the bot with `$disconnect` or `$d`. 
 # **Limitations**
-**Only one voice channel:** The bot can not handle being connecting to multiple voice channels at once. There will be strange behaviour if that is attempted. It is unlikely you want this in its common use cases.
+**Only one voice channel:** The bot can not handle being connected to multiple voice channels at once. There will be strange behaviour if that is attempted. It is unlikely you want this in its common use cases.
